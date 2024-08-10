@@ -1,4 +1,3 @@
-
 # Phone Number Geolocation 
 
 This project allows you to determine the country and service provider of a given phone number, convert the location to geographic coordinates using the OpenCage Geocode API, and visualize this location on a map using `folium`.
