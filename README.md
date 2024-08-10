@@ -1,4 +1,3 @@
-# NumberLocator
 
 # Phone Number Geolocation 
 
